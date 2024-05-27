@@ -11,7 +11,9 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NoOverriding", "NoOverridin
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Abstraksi", "Abstraksi\Abstraksi.vcxproj", "{F7B08E33-B25B-4FA2-942B-E7B02E832CF9}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NoMultiWaris", "NoMultiWaris\NoMultiWaris.vcxproj", "{45E9ED8E-2102-4E35-AECD-A2B95FB8FB4E}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SloveMultiwaris", "NoMultiWaris\NoMultiWaris.vcxproj", "{45E9ED8E-2102-4E35-AECD-A2B95FB8FB4E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SolveMultiwaris", "SolveMultiwaris\SolveMultiwaris.vcxproj", "{25809A4E-3E16-472D-B282-D1F87E1AE890}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -61,6 +63,14 @@ Global
 		{45E9ED8E-2102-4E35-AECD-A2B95FB8FB4E}.Release|x64.Build.0 = Release|x64
 		{45E9ED8E-2102-4E35-AECD-A2B95FB8FB4E}.Release|x86.ActiveCfg = Release|Win32
 		{45E9ED8E-2102-4E35-AECD-A2B95FB8FB4E}.Release|x86.Build.0 = Release|Win32
+		{25809A4E-3E16-472D-B282-D1F87E1AE890}.Debug|x64.ActiveCfg = Debug|x64
+		{25809A4E-3E16-472D-B282-D1F87E1AE890}.Debug|x64.Build.0 = Debug|x64
+		{25809A4E-3E16-472D-B282-D1F87E1AE890}.Debug|x86.ActiveCfg = Debug|Win32
+		{25809A4E-3E16-472D-B282-D1F87E1AE890}.Debug|x86.Build.0 = Debug|Win32
+		{25809A4E-3E16-472D-B282-D1F87E1AE890}.Release|x64.ActiveCfg = Release|x64
+		{25809A4E-3E16-472D-B282-D1F87E1AE890}.Release|x64.Build.0 = Release|x64
+		{25809A4E-3E16-472D-B282-D1F87E1AE890}.Release|x86.ActiveCfg = Release|Win32
+		{25809A4E-3E16-472D-B282-D1F87E1AE890}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
