@@ -24,6 +24,7 @@
     <ProjectGuid>{45e9ed8e-2102-4e35-aecd-a2b95fb8fb4e}</ProjectGuid>
     <RootNamespace>NoMultiWaris</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>SloveMultiaris</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
